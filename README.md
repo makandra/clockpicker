@@ -120,10 +120,10 @@ clockpicker/
 ```bash
 git clone https://github.com/weareoutman/clockpicker.git
 cd clockpicker
-npm install -g gulp
+npm install gulp
 npm install
-gulp
-# gulp test
+npm run test # Run tests
+npm run gulp # Compile
 ```
 
 ## Todo
